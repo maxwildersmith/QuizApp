@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Petite Interro</string>
+    <string name="button_f">Faux</string>
+    <string name="button_t">Vrai</string>
+    <string name="question2">Une balle tirée (horizontalement) touche le sol avant d\'qu\'une balle est passée de la même hauteur.</string>
+    <string name="question3"> Vous avez oublié un point-virgule.</string>
+    <string name="question4"> Mars a la plus haute montagne du système solaire.</string>
+    <string name="question5">0,15283 ° Kelvin est les humains les plus proches sont arrivés à zéro absolu.</string>
+    <string name="next">Prochain</string>
+    <string name="cheat">Tricher</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="cheat_cat">Ce chat est triste que tu as triché</string>
+    <string name="score_is">votre dernier score était: </string>
+    <string name="quit">Quitter</string>
+    <string name="test">Interro!</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>

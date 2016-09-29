@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cheatM"
+        android:title="Toggle Cheating"
+        android:icon="@android:drawable/ic_media_ff">
+
+    </item>
+    <item android:id="@+id/homeM"
+        android:title="Results"
+        android:icon="@android:drawable/ic_menu_myplaces">
+
+    </item>
+</menu>
